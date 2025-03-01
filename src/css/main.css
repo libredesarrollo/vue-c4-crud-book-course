@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+body {
+    @apply bg-gray-50
+}
+
+h1 {
+    @apply text-4xl text-center mb-4
+}
+
+.card {
+    @apply bg-white p-6 rounded-md shadow-lg
+}
+
+/* .o-input, .o-sel {
+    @apply !w-100 
+} */
