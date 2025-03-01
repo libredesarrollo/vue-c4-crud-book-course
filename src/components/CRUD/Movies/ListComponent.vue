@@ -10,7 +10,7 @@
         </div>
     </o-modal>
 
-    <h1>List {{ deleteMovieRow }}</h1>
+    <h1>List</h1>
 
     <div class="card">
         <!-- <o-button @click="$router.push('/save')" variant="primary">Create</o-button> -->

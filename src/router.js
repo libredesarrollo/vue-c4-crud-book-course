@@ -22,7 +22,7 @@ const routes = [
                 component: SaveMovie
             },
             {
-                name: 'save',
+                name: 'movie.save',
                 path: 'movie/save/:id?',
                 component: SaveMovie
             },
